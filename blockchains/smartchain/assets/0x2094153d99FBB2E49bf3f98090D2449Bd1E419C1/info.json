@@ -1,0 +1,11 @@
+{
+  "name": "Innovative Technology",
+  "symbol": "IT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Official token of Innovative Technology (IT).",
+  "website": "https://твой_сайт.com",
+  "explorer": "https://bscscan.com/token/0x2094153d99FBB2E49bf3f98090D2449Bd1E419C1",
+  "status": "active",
+  "id": "0x2094153d99FBB2E49bf3f98090D2449Bd1E419C1"
+}
